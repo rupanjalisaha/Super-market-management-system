@@ -1,0 +1,1 @@
+This is an inventory management system developed in core java using java collection framework, lambda expression, streams API and JSON file. it is a prototype of real time super market management system having multiple departments, categories, brands and products.
